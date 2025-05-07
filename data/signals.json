@@ -1,0 +1,5153 @@
+[
+  {
+    "symbol": "FOXYUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em FOXYUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626161029,
+    "savedAt": "2025-05-07T13:56:01.029Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em FUELUSDT (Dmin):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626163394,
+    "savedAt": "2025-05-07T13:56:03.394Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em FUELUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626164590,
+    "savedAt": "2025-05-07T13:56:04.591Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "60",
+    "message": "🚨 Rompimento detectado em FUELUSDT (60min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626165475,
+    "savedAt": "2025-05-07T13:56:05.475Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em SPECUSDT (Dmin):\n- 📈 Rompeu SMA 20",
+    "breakMessages": [
+      "📈 Rompeu SMA 20"
+    ],
+    "timestamp": 1746626166662,
+    "savedAt": "2025-05-07T13:56:06.662Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em SPECUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626167859,
+    "savedAt": "2025-05-07T13:56:07.859Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em KAITOUSDT (Dmin):\n- 📈 Rompeu SMA 50\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626169853,
+    "savedAt": "2025-05-07T13:56:09.854Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em KAITOUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626171759,
+    "savedAt": "2025-05-07T13:56:11.760Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "60",
+    "message": "🚨 Rompimento detectado em KAITOUSDT (60min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626172972,
+    "savedAt": "2025-05-07T13:56:12.972Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em COOKIEUSDT (Dmin):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626173803,
+    "savedAt": "2025-05-07T13:56:13.804Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em COOKIEUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626175717,
+    "savedAt": "2025-05-07T13:56:15.718Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em VIRTUALUSDT (Dmin):\n- 📈 Rompeu SMA 20",
+    "breakMessages": [
+      "📈 Rompeu SMA 20"
+    ],
+    "timestamp": 1746626178414,
+    "savedAt": "2025-05-07T13:56:18.415Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em VIRTUALUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626180333,
+    "savedAt": "2025-05-07T13:56:20.334Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em AI16ZUSDT (Dmin):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626182409,
+    "savedAt": "2025-05-07T13:56:22.410Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em AI16ZUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626183605,
+    "savedAt": "2025-05-07T13:56:23.606Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em AIXBTUSDT (Dmin):\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626186691,
+    "savedAt": "2025-05-07T13:56:26.691Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em AIXBTUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626188611,
+    "savedAt": "2025-05-07T13:56:28.611Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em REXUSDT (Dmin):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626191699,
+    "savedAt": "2025-05-07T13:56:31.699Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em REXUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200"
+    ],
+    "timestamp": 1746626193703,
+    "savedAt": "2025-05-07T13:56:33.704Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "60",
+    "message": "🚨 Rompimento detectado em REXUSDT (60min):\n- 📈 Rompeu SMA 20",
+    "breakMessages": [
+      "📈 Rompeu SMA 20"
+    ],
+    "timestamp": 1746626194526,
+    "savedAt": "2025-05-07T13:56:34.527Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em STPTUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626196857,
+    "savedAt": "2025-05-07T13:56:36.857Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em LISTAUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626199253,
+    "savedAt": "2025-05-07T13:56:39.254Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "message": "🚨 Rompimento detectado em LISTAUSDT (60min):\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626200082,
+    "savedAt": "2025-05-07T13:56:40.082Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em CVXUSDT (Dmin):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50"
+    ],
+    "timestamp": 1746626202056,
+    "savedAt": "2025-05-07T13:56:42.057Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em CVXUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626203293,
+    "savedAt": "2025-05-07T13:56:43.294Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "60",
+    "message": "🚨 Rompimento detectado em CVXUSDT (60min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100"
+    ],
+    "timestamp": 1746626205210,
+    "savedAt": "2025-05-07T13:56:45.211Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em MDTUSDT (Dmin):\n- 📈 Rompeu SMA 20",
+    "breakMessages": [
+      "📈 Rompeu SMA 20"
+    ],
+    "timestamp": 1746626207125,
+    "savedAt": "2025-05-07T13:56:47.126Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em MDTUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626207945,
+    "savedAt": "2025-05-07T13:56:47.946Z"
+  },
+  {
+    "symbol": "ELXUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em ELXUSDT (Dmin):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626210316,
+    "savedAt": "2025-05-07T13:56:50.318Z"
+  },
+  {
+    "symbol": "ELXUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em ELXUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626211507,
+    "savedAt": "2025-05-07T13:56:51.508Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em VRAUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626213558,
+    "savedAt": "2025-05-07T13:56:53.558Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "60",
+    "message": "🚨 Rompimento detectado em VRAUSDT (60min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50"
+    ],
+    "timestamp": 1746626214740,
+    "savedAt": "2025-05-07T13:56:54.740Z"
+  },
+  {
+    "symbol": "PENGUUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em PENGUUSDT (Dmin):\n- 📈 Rompeu SMA 100\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626215567,
+    "savedAt": "2025-05-07T13:56:55.568Z"
+  },
+  {
+    "symbol": "PENGUUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em PENGUUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626216396,
+    "savedAt": "2025-05-07T13:56:56.397Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em SUNDOGUSDT (Dmin):\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626218420,
+    "savedAt": "2025-05-07T13:56:58.421Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em SUNDOGUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626219616,
+    "savedAt": "2025-05-07T13:56:59.617Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "message": "🚨 Rompimento detectado em SUNDOGUSDT (60min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626220793,
+    "savedAt": "2025-05-07T13:57:00.793Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em CARVUSDT (Dmin):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626221984,
+    "savedAt": "2025-05-07T13:57:01.985Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em CARVUSDT (240min):\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626223189,
+    "savedAt": "2025-05-07T13:57:03.190Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em AXLUSDT (Dmin):\n- 📈 Rompeu SMA 20",
+    "breakMessages": [
+      "📈 Rompeu SMA 20"
+    ],
+    "timestamp": 1746626225518,
+    "savedAt": "2025-05-07T13:57:05.519Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em AXLUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626226443,
+    "savedAt": "2025-05-07T13:57:06.444Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "60",
+    "message": "🚨 Rompimento detectado em AXLUSDT (60min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50"
+    ],
+    "timestamp": 1746626227273,
+    "savedAt": "2025-05-07T13:57:07.274Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em ACXUSDT (Dmin):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626228811,
+    "savedAt": "2025-05-07T13:57:08.812Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em ACXUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626230736,
+    "savedAt": "2025-05-07T13:57:10.737Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "message": "🚨 Rompimento detectado em ACXUSDT (60min):\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626232637,
+    "savedAt": "2025-05-07T13:57:12.638Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em ALUUSDT (Dmin):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626233466,
+    "savedAt": "2025-05-07T13:57:13.467Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em ALUUSDT (240min):\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626235382,
+    "savedAt": "2025-05-07T13:57:15.383Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "message": "🚨 Rompimento detectado em ALUUSDT (60min):\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626237308,
+    "savedAt": "2025-05-07T13:57:17.309Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em LTCUSDT (Dmin):\n- 📈 Rompeu SMA 20",
+    "breakMessages": [
+      "📈 Rompeu SMA 20"
+    ],
+    "timestamp": 1746626238146,
+    "savedAt": "2025-05-07T13:57:18.147Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em LTCUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626239355,
+    "savedAt": "2025-05-07T13:57:19.356Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em SAGAUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626242493,
+    "savedAt": "2025-05-07T13:57:22.493Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "60",
+    "message": "🚨 Rompimento detectado em SAGAUSDT (60min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626244489,
+    "savedAt": "2025-05-07T13:57:24.490Z"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em POPCATUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626245745,
+    "savedAt": "2025-05-07T13:57:25.746Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "D",
+    "message": "🚨 Rompimento detectado em AVAAIUSDT (Dmin):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626247364,
+    "savedAt": "2025-05-07T13:57:27.365Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "240",
+    "message": "🚨 Rompimento detectado em AVAAIUSDT (240min):\n- 📈 Rompeu SMA 20\n- 📈 Rompeu SMA 50\n- 📈 Rompeu SMA 100\n- 📈 Rompeu SMA 200\n- 📈 Rompeu EMA 200",
+    "breakMessages": [
+      "📈 Rompeu SMA 20",
+      "📈 Rompeu SMA 50",
+      "📈 Rompeu SMA 100",
+      "📈 Rompeu SMA 200",
+      "📈 Rompeu EMA 200"
+    ],
+    "timestamp": 1746626249294,
+    "savedAt": "2025-05-07T13:57:29.294Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "240",
+    "divergence": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "message": "🚨 Divergência RSI detectada em CVXUSDT (240min):\n- 📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "timestamp": 1746626273517,
+    "savedAt": "2025-05-07T13:57:53.518Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "240",
+    "divergence": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "message": "🚨 Divergência RSI detectada em VRAUSDT (240min):\n- 📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "timestamp": 1746626279766,
+    "savedAt": "2025-05-07T13:57:59.767Z"
+  },
+  {
+    "symbol": "PENGUUSDT",
+    "interval": "60",
+    "divergence": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "message": "🚨 Divergência RSI detectada em PENGUUSDT (60min):\n- 📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "timestamp": 1746626283374,
+    "savedAt": "2025-05-07T13:58:03.376Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "60",
+    "divergence": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "message": "🚨 Divergência RSI detectada em CARVUSDT (60min):\n- 📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "timestamp": 1746626289805,
+    "savedAt": "2025-05-07T13:58:09.805Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "240",
+    "divergence": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "message": "🚨 Divergência RSI detectada em SAGAUSDT (240min):\n- 📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "timestamp": 1746626302600,
+    "savedAt": "2025-05-07T13:58:22.600Z"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "interval": "D",
+    "divergence": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "message": "🚨 Divergência RSI detectada em POPCATUSDT (Dmin):\n- 📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "timestamp": 1746626304592,
+    "savedAt": "2025-05-07T13:58:24.593Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "240",
+    "divergence": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "rsiLevel": 44.72344382715411,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em CVXUSDT (240min):\n- 📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "timestamp": 1746629858286,
+    "savedAt": "2025-05-07T14:57:38.287Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "240",
+    "divergence": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "rsiLevel": 35.77156948567253,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em VRAUSDT (240min):\n- 📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "timestamp": 1746629865261,
+    "savedAt": "2025-05-07T14:57:45.262Z"
+  },
+  {
+    "symbol": "AEROUSDT",
+    "interval": "240",
+    "divergence": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "rsiLevel": 30.71144902271891,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em AEROUSDT (240min):\n- 📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "timestamp": 1746629884975,
+    "savedAt": "2025-05-07T14:58:04.977Z"
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "interval": "240",
+    "divergence": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "rsiLevel": 29.715947139912785,
+    "zone": "📉 Zona de Sobrevenda (<30)",
+    "message": "🚨 Divergência RSI detectada em AAVEUSDT (240min):\n- 📈 Divergência de Alta (RSI subiu, preço caiu)\n- 📉 Zona de Sobrevenda (<30)",
+    "timestamp": 1746629887380,
+    "savedAt": "2025-05-07T14:58:07.381Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "240",
+    "divergence": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "rsiLevel": 33.913989006614784,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em SAGAUSDT (240min):\n- 📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "timestamp": 1746629895021,
+    "savedAt": "2025-05-07T14:58:15.022Z"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "interval": "D",
+    "divergence": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "rsiLevel": 59.935119663713095,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em POPCATUSDT (Dmin):\n- 📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "timestamp": 1746629897003,
+    "savedAt": "2025-05-07T14:58:17.004Z"
+  },
+  {
+    "symbol": "FOXYUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em FOXYUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746630098316,
+    "savedAt": "2025-05-07T15:01:38.316Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em FUELUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746630100763,
+    "savedAt": "2025-05-07T15:01:40.764Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em FUELUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630103483,
+    "savedAt": "2025-05-07T15:01:43.484Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SPECUSDT (Dmin):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630104718,
+    "savedAt": "2025-05-07T15:01:44.719Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SPECUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630106650,
+    "savedAt": "2025-05-07T15:01:46.651Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SPECUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746630108581,
+    "savedAt": "2025-05-07T15:01:48.582Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em KAITOUSDT (Dmin):\n- 🚩 Bandeira de Alta - possível continuação de alta",
+    "timestamp": 1746630110137,
+    "savedAt": "2025-05-07T15:01:50.139Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em KAITOUSDT (240min):\n- 🚩 Bandeira de Alta - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630112068,
+    "savedAt": "2025-05-07T15:01:52.068Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em KAITOUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630114009,
+    "savedAt": "2025-05-07T15:01:54.010Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em COOKIEUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630117107,
+    "savedAt": "2025-05-07T15:01:57.108Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em VIRTUALUSDT (Dmin):\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746630120545,
+    "savedAt": "2025-05-07T15:02:00.547Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AI16ZUSDT (Dmin):\n- 🚩 Bandeira de Alta - possível continuação de alta",
+    "timestamp": 1746630124433,
+    "savedAt": "2025-05-07T15:02:04.435Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AI16ZUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746630127178,
+    "savedAt": "2025-05-07T15:02:07.179Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AIXBTUSDT (Dmin):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta",
+    "timestamp": 1746630128001,
+    "savedAt": "2025-05-07T15:02:08.002Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AIXBTUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630128829,
+    "savedAt": "2025-05-07T15:02:08.830Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AIXBTUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 🚩 Bandeira de Alta - possível continuação de alta\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630130823,
+    "savedAt": "2025-05-07T15:02:10.824Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em REXUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630132876,
+    "savedAt": "2025-05-07T15:02:12.877Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em REXUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 📉 Canal de Baixa - tendência de baixa organizada",
+    "timestamp": 1746630134782,
+    "savedAt": "2025-05-07T15:02:14.783Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em STPTUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630136732,
+    "savedAt": "2025-05-07T15:02:16.733Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em STPTUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa",
+    "timestamp": 1746630138738,
+    "savedAt": "2025-05-07T15:02:18.739Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em STPTUSDT (60min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630139573,
+    "savedAt": "2025-05-07T15:02:19.574Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em LISTAUSDT (Dmin):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630141489,
+    "savedAt": "2025-05-07T15:02:21.490Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em LISTAUSDT (60min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630144952,
+    "savedAt": "2025-05-07T15:02:24.953Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em CVXUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630146878,
+    "savedAt": "2025-05-07T15:02:26.879Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em CVXUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 📉 Canal de Baixa - tendência de baixa organizada\n- 🚩 Bandeira de Alta - possível continuação de alta\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa",
+    "timestamp": 1746630149209,
+    "savedAt": "2025-05-07T15:02:29.211Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em MDTUSDT (Dmin):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630150421,
+    "savedAt": "2025-05-07T15:02:30.423Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em MDTUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630152330,
+    "savedAt": "2025-05-07T15:02:32.331Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em MDTUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta",
+    "timestamp": 1746630153161,
+    "savedAt": "2025-05-07T15:02:33.162Z"
+  },
+  {
+    "symbol": "ELXUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ELXUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746630154716,
+    "savedAt": "2025-05-07T15:02:34.718Z"
+  },
+  {
+    "symbol": "ELXUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ELXUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746630157422,
+    "savedAt": "2025-05-07T15:02:37.423Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em VRAUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746630158620,
+    "savedAt": "2025-05-07T15:02:38.620Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em VRAUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630160544,
+    "savedAt": "2025-05-07T15:02:40.544Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em VRAUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630162455,
+    "savedAt": "2025-05-07T15:02:42.457Z"
+  },
+  {
+    "symbol": "PENGUUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em PENGUUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630165531,
+    "savedAt": "2025-05-07T15:02:45.533Z"
+  },
+  {
+    "symbol": "PENGUUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em PENGUUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746630166377,
+    "savedAt": "2025-05-07T15:02:46.378Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SUNDOGUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746630167568,
+    "savedAt": "2025-05-07T15:02:47.569Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SUNDOGUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630169193,
+    "savedAt": "2025-05-07T15:02:49.193Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em CARVUSDT (Dmin):\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746630170374,
+    "savedAt": "2025-05-07T15:02:50.376Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em CARVUSDT (240min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa",
+    "timestamp": 1746630171201,
+    "savedAt": "2025-05-07T15:02:51.202Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AXLUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa",
+    "timestamp": 1746630173552,
+    "savedAt": "2025-05-07T15:02:53.552Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AXLUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta",
+    "timestamp": 1746630175915,
+    "savedAt": "2025-05-07T15:02:55.917Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ACXUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630178987,
+    "savedAt": "2025-05-07T15:02:58.988Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ALUUSDT (240min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630182454,
+    "savedAt": "2025-05-07T15:03:02.456Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ALUUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa",
+    "timestamp": 1746630183318,
+    "savedAt": "2025-05-07T15:03:03.320Z"
+  },
+  {
+    "symbol": "BANANAUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em BANANAUSDT (Dmin):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630184523,
+    "savedAt": "2025-05-07T15:03:04.525Z"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ZECUSDT (Dmin):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630188060,
+    "savedAt": "2025-05-07T15:03:08.061Z"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ZECUSDT (240min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746630188892,
+    "savedAt": "2025-05-07T15:03:08.893Z"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ZECUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630190810,
+    "savedAt": "2025-05-07T15:03:10.811Z"
+  },
+  {
+    "symbol": "AEROUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AEROUSDT (240min):\n- 🚩 Bandeira de Alta - possível continuação de alta\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630192054,
+    "savedAt": "2025-05-07T15:03:12.056Z"
+  },
+  {
+    "symbol": "AEROUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AEROUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630192881,
+    "savedAt": "2025-05-07T15:03:12.882Z"
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AAVEUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746630194814,
+    "savedAt": "2025-05-07T15:03:14.814Z"
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AAVEUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630196768,
+    "savedAt": "2025-05-07T15:03:16.770Z"
+  },
+  {
+    "symbol": "INJUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em INJUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746630198405,
+    "savedAt": "2025-05-07T15:03:18.406Z"
+  },
+  {
+    "symbol": "INJUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em INJUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630200336,
+    "savedAt": "2025-05-07T15:03:20.338Z"
+  },
+  {
+    "symbol": "INJUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em INJUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746630201234,
+    "savedAt": "2025-05-07T15:03:21.236Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em LTCUSDT (Dmin):\n- 🏴 Bandeira de Baixa - possível continuação de baixa\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630203162,
+    "savedAt": "2025-05-07T15:03:23.163Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em LTCUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630203990,
+    "savedAt": "2025-05-07T15:03:23.991Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SAGAUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746630206340,
+    "savedAt": "2025-05-07T15:03:26.342Z"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em POPCATUSDT (Dmin):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630209097,
+    "savedAt": "2025-05-07T15:03:29.099Z"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em POPCATUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630209919,
+    "savedAt": "2025-05-07T15:03:29.920Z"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em POPCATUSDT (60min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630211845,
+    "savedAt": "2025-05-07T15:03:31.848Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AVAAIUSDT (Dmin):\n- 🚩 Bandeira de Alta - possível continuação de alta",
+    "timestamp": 1746630212686,
+    "savedAt": "2025-05-07T15:03:32.688Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AVAAIUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746630213945,
+    "savedAt": "2025-05-07T15:03:33.947Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AVAAIUSDT (60min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746630214784,
+    "savedAt": "2025-05-07T15:03:34.785Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "240",
+    "divergence": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "rsiLevel": 30.638775390652995,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em FUELUSDT (240min):\n- 📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "timestamp": 1746637064110,
+    "savedAt": "2025-05-07T16:57:44.112Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "240",
+    "divergence": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "rsiLevel": 35.689312557555866,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em SPECUSDT (240min):\n- 📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "timestamp": 1746637065840,
+    "savedAt": "2025-05-07T16:57:45.841Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "60",
+    "divergence": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "rsiLevel": 67.08165513743748,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em VIRTUALUSDT (60min):\n- 📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "timestamp": 1746637072478,
+    "savedAt": "2025-05-07T16:57:52.480Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "240",
+    "divergence": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "rsiLevel": 58.305432368498465,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em LISTAUSDT (240min):\n- 📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "timestamp": 1746637083020,
+    "savedAt": "2025-05-07T16:58:03.022Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "divergence": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "rsiLevel": 69.38932748650564,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em SUNDOGUSDT (60min):\n- 📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "timestamp": 1746637097697,
+    "savedAt": "2025-05-07T16:58:17.699Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "240",
+    "divergence": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "rsiLevel": 40.2497438170232,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em ACXUSDT (240min):\n- 📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "timestamp": 1746637102216,
+    "savedAt": "2025-05-07T16:58:22.217Z"
+  },
+  {
+    "symbol": "AEROUSDT",
+    "interval": "60",
+    "divergence": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "rsiLevel": 68.44040060838063,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em AEROUSDT (60min):\n- 📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "timestamp": 1746637111614,
+    "savedAt": "2025-05-07T16:58:31.616Z"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "interval": "D",
+    "divergence": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "rsiLevel": 59.93427488302673,
+    "zone": null,
+    "message": "🚨 Divergência RSI detectada em POPCATUSDT (Dmin):\n- 📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "timestamp": 1746637124659,
+    "savedAt": "2025-05-07T16:58:44.661Z"
+  },
+  {
+    "symbol": "FOXYUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em FOXYUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746637326204,
+    "savedAt": "2025-05-07T17:02:06.205Z"
+  },
+  {
+    "symbol": "FOXYUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em FOXYUSDT (240min):\n- 🚩 Bandeira de Alta - possível continuação de alta",
+    "timestamp": 1746637328207,
+    "savedAt": "2025-05-07T17:02:08.208Z"
+  },
+  {
+    "symbol": "FOXYUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em FOXYUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta",
+    "timestamp": 1746637330233,
+    "savedAt": "2025-05-07T17:02:10.234Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em FUELUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746637331092,
+    "savedAt": "2025-05-07T17:02:11.093Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em FUELUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637333094,
+    "savedAt": "2025-05-07T17:02:13.095Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SPECUSDT (Dmin):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637334310,
+    "savedAt": "2025-05-07T17:02:14.311Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SPECUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa",
+    "timestamp": 1746637337023,
+    "savedAt": "2025-05-07T17:02:17.024Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em KAITOUSDT (Dmin):\n- 🚩 Bandeira de Alta - possível continuação de alta",
+    "timestamp": 1746637338595,
+    "savedAt": "2025-05-07T17:02:18.597Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em KAITOUSDT (240min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 📉 Canal de Baixa - tendência de baixa organizada\n- 🚩 Bandeira de Alta - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637339435,
+    "savedAt": "2025-05-07T17:02:19.437Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em KAITOUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637341360,
+    "savedAt": "2025-05-07T17:02:21.361Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em COOKIEUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 📉 Canal de Baixa - tendência de baixa organizada\n- 🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa",
+    "timestamp": 1746637345237,
+    "savedAt": "2025-05-07T17:02:25.239Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em VIRTUALUSDT (Dmin):\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746637346078,
+    "savedAt": "2025-05-07T17:02:26.079Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em VIRTUALUSDT (60min):\n- 🚩 Bandeira de Alta - possível continuação de alta\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746637347703,
+    "savedAt": "2025-05-07T17:02:27.704Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AI16ZUSDT (Dmin):\n- 🚩 Bandeira de Alta - possível continuação de alta",
+    "timestamp": 1746637348547,
+    "savedAt": "2025-05-07T17:02:28.548Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AI16ZUSDT (240min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa",
+    "timestamp": 1746637349812,
+    "savedAt": "2025-05-07T17:02:29.814Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AI16ZUSDT (60min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746637351763,
+    "savedAt": "2025-05-07T17:02:31.764Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AIXBTUSDT (Dmin):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta",
+    "timestamp": 1746637353364,
+    "savedAt": "2025-05-07T17:02:33.366Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AIXBTUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 📉 Canal de Baixa - tendência de baixa organizada\n- 🚩 Bandeira de Alta - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637355735,
+    "savedAt": "2025-05-07T17:02:35.736Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em REXUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 📉 Canal de Baixa - tendência de baixa organizada\n- 🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa",
+    "timestamp": 1746637358631,
+    "savedAt": "2025-05-07T17:02:38.632Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em STPTUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637359487,
+    "savedAt": "2025-05-07T17:02:39.489Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em STPTUSDT (240min):\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637361428,
+    "savedAt": "2025-05-07T17:02:41.429Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em STPTUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637362655,
+    "savedAt": "2025-05-07T17:02:42.656Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em LISTAUSDT (Dmin):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637363509,
+    "savedAt": "2025-05-07T17:02:43.510Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em LISTAUSDT (60min):\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637365145,
+    "savedAt": "2025-05-07T17:02:45.146Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em CVXUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637367078,
+    "savedAt": "2025-05-07T17:02:47.080Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em CVXUSDT (240min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637369008,
+    "savedAt": "2025-05-07T17:02:49.010Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em CVXUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 📉 Canal de Baixa - tendência de baixa organizada\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637370296,
+    "savedAt": "2025-05-07T17:02:50.296Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em MDTUSDT (Dmin):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637371502,
+    "savedAt": "2025-05-07T17:02:51.505Z"
+  },
+  {
+    "symbol": "ELXUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ELXUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746637374278,
+    "savedAt": "2025-05-07T17:02:54.280Z"
+  },
+  {
+    "symbol": "ELXUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ELXUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa",
+    "timestamp": 1746637375900,
+    "savedAt": "2025-05-07T17:02:55.901Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em VRAUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746637376752,
+    "savedAt": "2025-05-07T17:02:56.753Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em VRAUSDT (240min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637377592,
+    "savedAt": "2025-05-07T17:02:57.593Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em VRAUSDT (60min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746637379532,
+    "savedAt": "2025-05-07T17:02:59.532Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SUNDOGUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746637382727,
+    "savedAt": "2025-05-07T17:03:02.728Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SUNDOGUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637384368,
+    "savedAt": "2025-05-07T17:03:04.369Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em CARVUSDT (Dmin):\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746637385569,
+    "savedAt": "2025-05-07T17:03:05.570Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em CARVUSDT (240min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746637387482,
+    "savedAt": "2025-05-07T17:03:07.484Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em CARVUSDT (60min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637389420,
+    "savedAt": "2025-05-07T17:03:09.422Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AXLUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa",
+    "timestamp": 1746637390273,
+    "savedAt": "2025-05-07T17:03:10.274Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AXLUSDT (240min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637391496,
+    "savedAt": "2025-05-07T17:03:11.499Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AXLUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 📉 Canal de Baixa - tendência de baixa organizada\n- 🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa",
+    "timestamp": 1746637392342,
+    "savedAt": "2025-05-07T17:03:12.344Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ACXUSDT (60min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637396933,
+    "savedAt": "2025-05-07T17:03:16.933Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ALUUSDT (240min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637398543,
+    "savedAt": "2025-05-07T17:03:18.545Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ALUUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 🚩 Bandeira de Alta - possível continuação de alta\n- 🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa",
+    "timestamp": 1746637400470,
+    "savedAt": "2025-05-07T17:03:20.471Z"
+  },
+  {
+    "symbol": "BANANAUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em BANANAUSDT (Dmin):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637401311,
+    "savedAt": "2025-05-07T17:03:21.312Z"
+  },
+  {
+    "symbol": "BANANAUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em BANANAUSDT (240min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa",
+    "timestamp": 1746637402146,
+    "savedAt": "2025-05-07T17:03:22.148Z"
+  },
+  {
+    "symbol": "BANANAUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em BANANAUSDT (60min):\n- 🚩 Bandeira de Alta - possível continuação de alta\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637404095,
+    "savedAt": "2025-05-07T17:03:24.097Z"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ZECUSDT (Dmin):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637404930,
+    "savedAt": "2025-05-07T17:03:24.930Z"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ZECUSDT (240min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa",
+    "timestamp": 1746637406847,
+    "savedAt": "2025-05-07T17:03:26.849Z"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em ZECUSDT (60min):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637408796,
+    "savedAt": "2025-05-07T17:03:28.798Z"
+  },
+  {
+    "symbol": "AEROUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AEROUSDT (240min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 🚩 Bandeira de Alta - possível continuação de alta\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637410060,
+    "savedAt": "2025-05-07T17:03:30.061Z"
+  },
+  {
+    "symbol": "AEROUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AEROUSDT (60min):\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637411283,
+    "savedAt": "2025-05-07T17:03:31.284Z"
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AAVEUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746637412118,
+    "savedAt": "2025-05-07T17:03:32.121Z"
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "interval": "240",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AAVEUSDT (240min):\n- 🚩 Bandeira de Alta - possível continuação de alta\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746637414039,
+    "savedAt": "2025-05-07T17:03:34.042Z"
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AAVEUSDT (60min):\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746637415251,
+    "savedAt": "2025-05-07T17:03:35.255Z"
+  },
+  {
+    "symbol": "INJUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em INJUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada\n- 🏴 Bandeira de Baixa - possível continuação de baixa",
+    "timestamp": 1746637416098,
+    "savedAt": "2025-05-07T17:03:36.103Z"
+  },
+  {
+    "symbol": "INJUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em INJUSDT (60min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637418864,
+    "savedAt": "2025-05-07T17:03:38.866Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🏴 Bandeira de Baixa - possível continuação de baixa"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em LTCUSDT (Dmin):\n- 🏴 Bandeira de Baixa - possível continuação de baixa\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637420807,
+    "savedAt": "2025-05-07T17:03:40.809Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em LTCUSDT (60min):\n- 🟥 OCO (Ombro-Cabeça-Ombro) - possível reversão de baixa",
+    "timestamp": 1746637422441,
+    "savedAt": "2025-05-07T17:03:42.443Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SAGAUSDT (Dmin):\n- 📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa\n- 📈 Canal de Alta - tendência de alta organizada",
+    "timestamp": 1746637424382,
+    "savedAt": "2025-05-07T17:03:44.383Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em SAGAUSDT (60min):\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637426061,
+    "savedAt": "2025-05-07T17:03:46.063Z"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em POPCATUSDT (Dmin):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637426899,
+    "savedAt": "2025-05-07T17:03:46.899Z"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em POPCATUSDT (60min):\n- ☕ Xícara com Alça - possível continuação de alta\n- 🟩 OCOI (Invertido) - possível reversão de alta",
+    "timestamp": 1746637428542,
+    "savedAt": "2025-05-07T17:03:48.544Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "D",
+    "patterns": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AVAAIUSDT (Dmin):\n- 🚩 Bandeira de Alta - possível continuação de alta",
+    "timestamp": 1746637429395,
+    "savedAt": "2025-05-07T17:03:49.395Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "60",
+    "patterns": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "message": "🚨 Padrões gráficos detectados em AVAAIUSDT (60min):\n- 📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta\n- 🚩 Bandeira de Alta - possível continuação de alta\n- ☕ Xícara com Alça - possível continuação de alta",
+    "timestamp": 1746637430664,
+    "savedAt": "2025-05-07T17:03:50.665Z"
+  },
+  {
+    "symbol": "FOXYUSDT",
+    "interval": "60",
+    "timestamp": 1746640508543,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:55:08.545Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "60",
+    "timestamp": 1746640515702,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:55:15.705Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "60",
+    "timestamp": 1746640521720,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "savedAt": "2025-05-07T17:55:21.723Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "60",
+    "timestamp": 1746640526600,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:55:26.601Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "60",
+    "timestamp": 1746640534543,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      }
+    ],
+    "savedAt": "2025-05-07T17:55:34.545Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "60",
+    "timestamp": 1746640537387,
+    "strategy": "Divergência RSI",
+    "content": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "savedAt": "2025-05-07T17:55:37.388Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "60",
+    "timestamp": 1746640542274,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:55:42.277Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "60",
+    "timestamp": 1746640548709,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:55:48.710Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "60",
+    "timestamp": 1746640555014,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:55:55.015Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "60",
+    "timestamp": 1746640560164,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      }
+    ],
+    "savedAt": "2025-05-07T17:56:00.165Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "60",
+    "timestamp": 1746640565371,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:56:05.372Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "timestamp": 1746640570722,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:56:10.723Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "60",
+    "timestamp": 1746640577289,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:56:17.291Z"
+  },
+  {
+    "symbol": "ELXUSDT",
+    "interval": "60",
+    "timestamp": 1746640586996,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "savedAt": "2025-05-07T17:56:26.999Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "60",
+    "timestamp": 1746640593102,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:56:33.104Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "timestamp": 1746640604443,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "savedAt": "2025-05-07T17:56:44.444Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "60",
+    "timestamp": 1746640615581,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      }
+    ],
+    "savedAt": "2025-05-07T17:56:55.582Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "timestamp": 1746640627801,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:57:07.802Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "60",
+    "timestamp": 1746640635636,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:57:15.638Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "60",
+    "timestamp": 1746640643534,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:57:23.536Z"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "interval": "60",
+    "timestamp": 1746640650926,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:57:30.928Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "60",
+    "timestamp": 1746640659259,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T17:57:39.261Z"
+  },
+  {
+    "symbol": "FOXYUSDT",
+    "interval": "60",
+    "timestamp": 1746641104724,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      }
+    ],
+    "savedAt": "2025-05-07T18:05:04.725Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "60",
+    "timestamp": 1746641107190,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20"
+    ],
+    "savedAt": "2025-05-07T18:05:07.191Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "60",
+    "timestamp": 1746641116964,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:05:16.967Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "60",
+    "timestamp": 1746641124466,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 200"
+    ],
+    "savedAt": "2025-05-07T18:05:24.469Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "60",
+    "timestamp": 1746641127903,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:05:27.904Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "60",
+    "timestamp": 1746641134655,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:05:34.657Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "60",
+    "timestamp": 1746641141893,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:05:41.896Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "60",
+    "timestamp": 1746641149994,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:05:49.995Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "60",
+    "timestamp": 1746641156065,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:05:56.067Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "60",
+    "timestamp": 1746641156940,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🕊️ Três Soldados Brancos"
+    ],
+    "savedAt": "2025-05-07T18:05:56.941Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "60",
+    "timestamp": 1746641161995,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "savedAt": "2025-05-07T18:06:01.998Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "timestamp": 1746641162886,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "⚖️ Doji"
+    ],
+    "savedAt": "2025-05-07T18:06:02.889Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "timestamp": 1746641164851,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 50",
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:06:04.853Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "timestamp": 1746641167621,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:06:07.623Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "60",
+    "timestamp": 1746641174419,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:06:14.421Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "60",
+    "timestamp": 1746641178778,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:06:18.780Z"
+  },
+  {
+    "symbol": "ELXUSDT",
+    "interval": "60",
+    "timestamp": 1746641184791,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:06:24.794Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "60",
+    "timestamp": 1746641192289,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:06:32.292Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "timestamp": 1746641202278,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 200"
+    ],
+    "savedAt": "2025-05-07T18:06:42.280Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "timestamp": 1746641207410,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:06:47.412Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "60",
+    "timestamp": 1746641208289,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🔄 Martelo Invertido",
+      "🌠 Estrela Cadente"
+    ],
+    "savedAt": "2025-05-07T18:06:48.293Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "60",
+    "timestamp": 1746641215012,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento EMA 200"
+    ],
+    "savedAt": "2025-05-07T18:06:55.015Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "timestamp": 1746641219029,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🔄 Martelo Invertido",
+      "🌠 Estrela Cadente"
+    ],
+    "savedAt": "2025-05-07T18:06:59.032Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "timestamp": 1746641224239,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:07:04.241Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "timestamp": 1746641232230,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:07:12.233Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "60",
+    "timestamp": 1746641233098,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🔄 Martelo Invertido",
+      "🌠 Estrela Cadente"
+    ],
+    "savedAt": "2025-05-07T18:07:13.101Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "60",
+    "timestamp": 1746641238070,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:07:18.073Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "60",
+    "timestamp": 1746641243161,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:07:23.164Z"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "interval": "60",
+    "timestamp": 1746641250346,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "savedAt": "2025-05-07T18:07:30.348Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "60",
+    "timestamp": 1746641251219,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🔄 Martelo Invertido",
+      "🌠 Estrela Cadente"
+    ],
+    "savedAt": "2025-05-07T18:07:31.221Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "60",
+    "timestamp": 1746641258793,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:07:38.794Z"
+  },
+  {
+    "symbol": "FOXYUSDT",
+    "interval": "60",
+    "timestamp": 1746642099426,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      }
+    ],
+    "savedAt": "2025-05-07T18:21:39.441Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "60",
+    "timestamp": 1746642101213,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20"
+    ],
+    "savedAt": "2025-05-07T18:21:41.215Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "60",
+    "timestamp": 1746642110615,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:21:50.616Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "60",
+    "timestamp": 1746642116636,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "savedAt": "2025-05-07T18:21:56.637Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "60",
+    "timestamp": 1746642117950,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 200"
+    ],
+    "savedAt": "2025-05-07T18:21:57.951Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "60",
+    "timestamp": 1746642122452,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:22:02.453Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "60",
+    "timestamp": 1746642128430,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:22:08.431Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "60",
+    "timestamp": 1746642133485,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:22:13.489Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "60",
+    "timestamp": 1746642138588,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:22:18.589Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "60",
+    "timestamp": 1746642139512,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "⚖️ Doji"
+    ],
+    "savedAt": "2025-05-07T18:22:19.513Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "60",
+    "timestamp": 1746642146155,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:22:26.157Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "60",
+    "timestamp": 1746642147009,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🕊️ Três Soldados Brancos"
+    ],
+    "savedAt": "2025-05-07T18:22:27.010Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "60",
+    "timestamp": 1746642150532,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "savedAt": "2025-05-07T18:22:30.535Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "timestamp": 1746642152961,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 50",
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:22:32.963Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "timestamp": 1746642155648,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:22:35.650Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "60",
+    "timestamp": 1746642156496,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "⚖️ Doji"
+    ],
+    "savedAt": "2025-05-07T18:22:36.499Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "60",
+    "timestamp": 1746642160759,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:22:40.760Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "60",
+    "timestamp": 1746642162425,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento EMA 200"
+    ],
+    "savedAt": "2025-05-07T18:22:42.426Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "60",
+    "timestamp": 1746642165838,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:22:45.840Z"
+  },
+  {
+    "symbol": "ELXUSDT",
+    "interval": "60",
+    "timestamp": 1746642170201,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:22:50.203Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "60",
+    "timestamp": 1746642176538,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:22:56.540Z"
+  },
+  {
+    "symbol": "PENGUUSDT",
+    "interval": "60",
+    "timestamp": 1746642178233,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:22:58.234Z"
+  },
+  {
+    "symbol": "PENGUUSDT",
+    "interval": "60",
+    "timestamp": 1746642181326,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:23:01.327Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "timestamp": 1746642183033,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 200"
+    ],
+    "savedAt": "2025-05-07T18:23:03.035Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "timestamp": 1746642186949,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:23:06.951Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "60",
+    "timestamp": 1746642191069,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "savedAt": "2025-05-07T18:23:11.070Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "60",
+    "timestamp": 1746642193488,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento EMA 200"
+    ],
+    "savedAt": "2025-05-07T18:23:13.490Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "timestamp": 1746642198168,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🌅 Estrela da Manhã"
+    ],
+    "savedAt": "2025-05-07T18:23:18.169Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "timestamp": 1746642200134,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20"
+    ],
+    "savedAt": "2025-05-07T18:23:20.135Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "timestamp": 1746642203590,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:23:23.592Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "timestamp": 1746642207246,
+    "strategy": "Divergência RSI",
+    "content": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "savedAt": "2025-05-07T18:23:27.247Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "timestamp": 1746642209502,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:23:29.503Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "60",
+    "timestamp": 1746642214572,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:23:34.575Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "60",
+    "timestamp": 1746642215904,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:23:35.906Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "60",
+    "timestamp": 1746642220439,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:23:40.444Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "60",
+    "timestamp": 1746642229526,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20",
+      "📈 Rompimento SMA 50",
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:23:49.527Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "60",
+    "timestamp": 1746642233744,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:23:53.745Z"
+  },
+  {
+    "symbol": "FOXYUSDT",
+    "interval": "60",
+    "timestamp": 1746642561184,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      }
+    ],
+    "savedAt": "2025-05-07T18:29:21.185Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "60",
+    "timestamp": 1746642563128,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20"
+    ],
+    "savedAt": "2025-05-07T18:29:23.129Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "60",
+    "timestamp": 1746642567651,
+    "strategy": "Divergência RSI",
+    "content": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "savedAt": "2025-05-07T18:29:27.653Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "60",
+    "timestamp": 1746642571923,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:29:31.924Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "60",
+    "timestamp": 1746642577209,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "savedAt": "2025-05-07T18:29:37.211Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "60",
+    "timestamp": 1746642579166,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 200"
+    ],
+    "savedAt": "2025-05-07T18:29:39.167Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "60",
+    "timestamp": 1746642582755,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:29:42.758Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "60",
+    "timestamp": 1746642588708,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:29:48.711Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "60",
+    "timestamp": 1746642593181,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:29:53.183Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "60",
+    "timestamp": 1746642597259,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:29:57.261Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "60",
+    "timestamp": 1746642599255,
+    "strategy": "Divergência RSI",
+    "content": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "savedAt": "2025-05-07T18:29:59.257Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "60",
+    "timestamp": 1746642602097,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:02.100Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "60",
+    "timestamp": 1746642603258,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🕊️ Três Soldados Brancos"
+    ],
+    "savedAt": "2025-05-07T18:30:03.260Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "60",
+    "timestamp": 1746642608052,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:08.056Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "timestamp": 1746642608932,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 50",
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:30:08.934Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "timestamp": 1746642612545,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:12.548Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "60",
+    "timestamp": 1746642618417,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:18.419Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "60",
+    "timestamp": 1746642619638,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20",
+      "📈 Rompimento EMA 200"
+    ],
+    "savedAt": "2025-05-07T18:30:19.641Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "60",
+    "timestamp": 1746642622512,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:22.513Z"
+  },
+  {
+    "symbol": "ELXUSDT",
+    "interval": "60",
+    "timestamp": 1746642626587,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:26.589Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "60",
+    "timestamp": 1746642627015,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "⚖️ Doji"
+    ],
+    "savedAt": "2025-05-07T18:30:27.017Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "60",
+    "timestamp": 1746642632442,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:32.444Z"
+  },
+  {
+    "symbol": "PENGUUSDT",
+    "interval": "60",
+    "timestamp": 1746642633657,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:30:33.660Z"
+  },
+  {
+    "symbol": "PENGUUSDT",
+    "interval": "60",
+    "timestamp": 1746642636875,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:36.876Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "timestamp": 1746642637726,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 200"
+    ],
+    "savedAt": "2025-05-07T18:30:37.727Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "timestamp": 1746642641664,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:41.667Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "60",
+    "timestamp": 1746642646115,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:46.118Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "60",
+    "timestamp": 1746642646965,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento EMA 200"
+    ],
+    "savedAt": "2025-05-07T18:30:46.967Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "timestamp": 1746642651369,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "⚖️ Doji"
+    ],
+    "savedAt": "2025-05-07T18:30:51.370Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "timestamp": 1746642654653,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:54.656Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "timestamp": 1746642655101,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🟦 Marubozu"
+    ],
+    "savedAt": "2025-05-07T18:30:55.104Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "timestamp": 1746642656375,
+    "strategy": "Divergência RSI",
+    "content": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "savedAt": "2025-05-07T18:30:56.376Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "timestamp": 1746642659169,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:30:59.170Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "60",
+    "timestamp": 1746642659588,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🔄 Martelo Invertido",
+      "🌠 Estrela Cadente"
+    ],
+    "savedAt": "2025-05-07T18:30:59.591Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "60",
+    "timestamp": 1746642662245,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:31:02.247Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "60",
+    "timestamp": 1746642663511,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:31:03.513Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "60",
+    "timestamp": 1746642665647,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:31:05.649Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "60",
+    "timestamp": 1746642672182,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20",
+      "📈 Rompimento SMA 50",
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:31:12.187Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "60",
+    "timestamp": 1746642675388,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:31:15.390Z"
+  },
+  {
+    "symbol": "FOXYUSDT",
+    "interval": "60",
+    "timestamp": 1746643179690,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      }
+    ],
+    "savedAt": "2025-05-07T18:39:39.693Z"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "interval": "60",
+    "timestamp": 1746643180918,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20"
+    ],
+    "savedAt": "2025-05-07T18:39:40.920Z"
+  },
+  {
+    "symbol": "SPECUSDT",
+    "interval": "60",
+    "timestamp": 1746643187449,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:39:47.451Z"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "interval": "60",
+    "timestamp": 1746643192940,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "savedAt": "2025-05-07T18:39:52.941Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "60",
+    "timestamp": 1746643193785,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 200"
+    ],
+    "savedAt": "2025-05-07T18:39:53.789Z"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "interval": "60",
+    "timestamp": 1746643197730,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:39:57.732Z"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "interval": "60",
+    "timestamp": 1746643201761,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:01.763Z"
+  },
+  {
+    "symbol": "AI16ZUSDT",
+    "interval": "60",
+    "timestamp": 1746643206953,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:06.956Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "60",
+    "timestamp": 1746643208161,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20"
+    ],
+    "savedAt": "2025-05-07T18:40:08.164Z"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "interval": "60",
+    "timestamp": 1746643212124,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:12.126Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "60",
+    "timestamp": 1746643213590,
+    "strategy": "Divergência RSI",
+    "content": "📉 Divergência de Baixa (RSI caiu, preço subiu)",
+    "savedAt": "2025-05-07T18:40:13.593Z"
+  },
+  {
+    "symbol": "REXUSDT",
+    "interval": "60",
+    "timestamp": 1746643216104,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:16.106Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "60",
+    "timestamp": 1746643216529,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🔄 Martelo Invertido",
+      "🌠 Estrela Cadente",
+      "🕊️ Três Soldados Brancos"
+    ],
+    "savedAt": "2025-05-07T18:40:16.531Z"
+  },
+  {
+    "symbol": "STPTUSDT",
+    "interval": "60",
+    "timestamp": 1746643220546,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:20.548Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "timestamp": 1746643223223,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 50",
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:40:23.225Z"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "interval": "60",
+    "timestamp": 1746643227175,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:27.179Z"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "interval": "60",
+    "timestamp": 1746643231210,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:31.211Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "60",
+    "timestamp": 1746643233164,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento EMA 200"
+    ],
+    "savedAt": "2025-05-07T18:40:33.168Z"
+  },
+  {
+    "symbol": "MDTUSDT",
+    "interval": "60",
+    "timestamp": 1746643236363,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:36.365Z"
+  },
+  {
+    "symbol": "ELXUSDT",
+    "interval": "60",
+    "timestamp": 1746643240808,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:40.812Z"
+  },
+  {
+    "symbol": "VRAUSDT",
+    "interval": "60",
+    "timestamp": 1746643245948,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:45.951Z"
+  },
+  {
+    "symbol": "PENGUUSDT",
+    "interval": "60",
+    "timestamp": 1746643251490,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:51.493Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "timestamp": 1746643253412,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 200"
+    ],
+    "savedAt": "2025-05-07T18:40:53.413Z"
+  },
+  {
+    "symbol": "SUNDOGUSDT",
+    "interval": "60",
+    "timestamp": 1746643256275,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:40:56.279Z"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "interval": "60",
+    "timestamp": 1746643262119,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📈 Cunha de Alta (Rising Wedge) - possível reversão de baixa"
+      },
+      {
+        "name": "📈 Canal de Alta - tendência de alta organizada"
+      }
+    ],
+    "savedAt": "2025-05-07T18:41:02.126Z"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "interval": "60",
+    "timestamp": 1746643262981,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 200",
+      "📈 Rompimento EMA 200"
+    ],
+    "savedAt": "2025-05-07T18:41:02.983Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "timestamp": 1746643268054,
+    "strategy": "Padrões de Candles",
+    "content": [
+      "🌅 Estrela da Manhã"
+    ],
+    "savedAt": "2025-05-07T18:41:08.056Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "timestamp": 1746643269565,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20"
+    ],
+    "savedAt": "2025-05-07T18:41:09.568Z"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "interval": "60",
+    "timestamp": 1746643271690,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      },
+      {
+        "name": "🟩 OCOI (Invertido) - possível reversão de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:41:11.691Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "timestamp": 1746643273352,
+    "strategy": "Divergência RSI",
+    "content": "📈 Divergência de Alta (RSI subiu, preço caiu)",
+    "savedAt": "2025-05-07T18:41:13.354Z"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "interval": "60",
+    "timestamp": 1746643275435,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:41:15.437Z"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "interval": "60",
+    "timestamp": 1746643280194,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "📉 Cunha de Baixa (Falling Wedge) - possível reversão de alta"
+      },
+      {
+        "name": "📉 Canal de Baixa - tendência de baixa organizada"
+      },
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:41:20.199Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "60",
+    "timestamp": 1746643282127,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20",
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:41:22.129Z"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "interval": "60",
+    "timestamp": 1746643284585,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:41:24.589Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "60",
+    "timestamp": 1746643291327,
+    "strategy": "Rompimento de Médias",
+    "content": [
+      "📈 Rompimento SMA 20",
+      "📈 Rompimento SMA 50",
+      "📈 Rompimento SMA 100"
+    ],
+    "savedAt": "2025-05-07T18:41:31.329Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "interval": "60",
+    "timestamp": 1746643295659,
+    "strategy": "Padrões Gráficos",
+    "content": [
+      {
+        "name": "🚩 Bandeira de Alta - possível continuação de alta"
+      },
+      {
+        "name": "☕ Xícara com Alça - possível continuação de alta"
+      }
+    ],
+    "savedAt": "2025-05-07T18:41:35.664Z"
+  }
+]

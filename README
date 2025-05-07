@@ -1,0 +1,8 @@
+node index.js now
+ para rodar na hora q quiser
+ 
+
+
+node test.js 60   # Testa timeframe de 1h
+node test.js 240  # Testa timeframe de 4h
+node test.js D    # Testa timeframe diário
